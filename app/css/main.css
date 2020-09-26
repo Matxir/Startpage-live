@@ -30,19 +30,19 @@ h1 {
   text-align: center; }
 
 #greeting {
-  font-size: 90px;
+  font-size: 110px;
   margin: 0; }
 
 #date {
-  font-size: 30px; }
+  font-size: 60px; }
 
 .container {
-  margin: 20px;
+  margin: 50px;
   display: inline-block; }
   .container ol {
     list-style-type: none; }
     .container ol .containerTitle {
-      font-size: 26px;
+      font-size: 40px;
       margin: 0; }
     .container ol .link {
       text-decoration: none;
