@@ -46,19 +46,19 @@ h1{
     
 }
 
-#greeting{font-size: 90px; margin: 0;}
-#date{font-size: 30px;}
+#greeting{font-size: 120px; margin: 0;}
+#date{font-size: 60px;}
 // #th{color: red;}
 
 .container{
-    margin: 20px;
+    margin: 40px;
     display: inline-block;
 
     ol{ 
         list-style-type: none;
 
         .containerTitle{
-            font-size: 26px;
+            font-size: 50px;
             margin: 0;
             // @include gradTxt(red, orange);
         }
