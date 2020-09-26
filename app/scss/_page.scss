@@ -46,19 +46,19 @@ h1{
     
 }
 
-#greeting{font-size: 120px; margin: 0;}
-#date{font-size: 60px;}
+#greeting{font-size: 95px; margin: 0;}
+#date{font-size: 40px;}
 // #th{color: red;}
 
 .container{
-    margin: 40px;
+    margin: 20px;
     display: inline-block;
 
     ol{ 
         list-style-type: none;
 
         .containerTitle{
-            font-size: 50px;
+            font-size: 35px;
             margin: 0;
             // @include gradTxt(red, orange);
         }
@@ -74,7 +74,7 @@ h1{
         }
 
         .line{
-            height: 3px;
+            height: 26px;
             width: 180px;
             // background-image: linear-gradient(to right, red , orange);
         }
