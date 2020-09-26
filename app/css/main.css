@@ -30,21 +30,22 @@ h1 {
   text-align: center; }
 
 #greeting {
-  font-size: 110px;
+  font-size: 90px;
   margin: 0; }
 
 #date {
-  font-size: 60px; }
+  font-size: 40px; }
 
 .container {
-  margin: 80px;
+  margin: 30px;
   display: inline-block; }
   .container ol {
     list-style-type: none; }
     .container ol .containerTitle {
-      font-size: 60px;
+      font-size: 40px;
       margin: 0; }
     .container ol .link {
+      font-size: 30px;
       text-decoration: none;
       color: white; }
     .container ol .item {
